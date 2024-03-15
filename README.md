@@ -37,3 +37,7 @@
 21. Sampling Distribution
 22. 카이제곱분포, 표분분산의 분포, t 분포, F 분포
 23. Analysis of Variance(ANOVA)
+
+## 기타
+* 빈도주의와 베이지안
+* 가설검정
